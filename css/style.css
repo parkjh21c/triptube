@@ -1,0 +1,38 @@
+#container {
+  margin:0 auto;  /* 화면 중앙에 배치 */
+  width:1000px;    /* 너비 */
+  background-color: green;
+}
+
+header {
+  width: 100%;
+  height: 125px;
+}
+
+#tilte {
+  width: 100%;
+  height: 100%;
+}
+
+nav {
+  width: 100%;
+  height: 60px;
+  background-color: red;
+}
+
+#slideshow {
+  width:100%;
+  height: 300px;
+  background-color: yellow;
+}
+
+#content {
+  width:100%;
+  height: 600px;
+}
+
+footer {
+  width: 100%;
+  height: 50px;
+  background-color: brown;
+}
